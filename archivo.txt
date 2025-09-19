@@ -1,1 +1,2 @@
 Este es un archivo de texto.! Para el curso de github.!
+Está es una segunda linea en el branch, nueva-funcionalidad.!
